@@ -124,8 +124,4 @@ Response:
   "access": "your-access-token",
   "refresh": "your-refresh-token"
 }
-
-Include the access token in the Authorization header for all subsequent requests:
-
-Authorization: Bearer your-access-token
 ```
